@@ -1,4 +1,3 @@
 ## heeeeeeeeeeeeeey!! my name is kudaken!  
-栃木県出身、栃木県在住  
-好きな食べ物はラーメン、パスタ  
-ゲームはレトロRPGが好き
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudaken0&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kudaken0&theme=shadow_blue&column=7)](https://github.com/ryo-ma/github-profile-trophy)
